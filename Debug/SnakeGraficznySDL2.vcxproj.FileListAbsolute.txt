@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\SnakeGraficznySDL2\Debug\SnakeGraficznySDL2.exe
+C:\Users\Admin\Desktop\SnakeGraficznySDL2\Debug\SnakeGraficznySDL2.exe
